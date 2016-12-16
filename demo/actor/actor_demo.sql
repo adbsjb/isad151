@@ -1,4 +1,4 @@
-INSERT INTO actor  (name, biography) 
+INSERT INTO Actor (name, biography) 
 VALUES 
 ('Will Smith', 'Very cool black guy'),
 ('Margot Robbie','Aussie bloke'),
